@@ -1,5 +1,6 @@
 
 module.exports = {
+  base: "/vuepresstest1/",
   title: 'HUI', // 设置网站标题
   description: 'hikvision', //描述
   dest: './dist',   // 设置输出目录
